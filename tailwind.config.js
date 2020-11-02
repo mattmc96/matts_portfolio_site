@@ -2,6 +2,7 @@ module.exports = {
     future: {
         removeDeprecatedGapUtilities: true,
     },
+    important: true,
     purge: ["./components/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}"],
     theme: {
         screens: {
