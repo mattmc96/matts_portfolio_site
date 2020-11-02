@@ -1,32 +1,33 @@
 {
-  "name": "mattsportfolio",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-
-  },
-  "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/react-fontawesome": "^0.1.12",
-    "@tailwindcss/typography": "^0.2.0",
-    "autoprefixer": "^10.0.1",
-    "cssnano": "^4.1.10",
-    "imagemin-optipng": "^8.0.0",
-    "next": "^10.0.0",
-    "next-optimized-images": "^2.6.2",
-    "postcss-flexbugs-fixes": "4.2.1",
-    "postcss-nested": "4.2.3",
-    "postcss-preset-env": "^6.70",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-icons": "^3.11.0",
-    "react-typed": "^1.2.0",
-    "tailwindcss": "^1.8.13",
-    "tailwindcss-triangles": "^4.0.0",
-    "typed.js": "^2.0.11"
-  }
+    "name": "mattsportfolio",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "export": "next export",
+        "deploy": "npm run build && npm run export"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.32",
+        "@fortawesome/free-solid-svg-icons": "^5.15.1",
+        "@fortawesome/react-fontawesome": "^0.1.12",
+        "@tailwindcss/typography": "^0.2.0",
+        "autoprefixer": "^10.0.1",
+        "cssnano": "^4.1.10",
+        "imagemin-optipng": "^8.0.0",
+        "next": "^10.0.0",
+        "next-optimized-images": "^2.6.2",
+        "postcss-flexbugs-fixes": "4.2.1",
+        "postcss-nested": "4.2.3",
+        "postcss-preset-env": "^6.70",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-icons": "^3.11.0",
+        "react-typed": "^1.2.0",
+        "tailwindcss": "^1.8.13",
+        "tailwindcss-triangles": "^4.0.0",
+        "typed.js": "^2.0.11"
+    }
 }
