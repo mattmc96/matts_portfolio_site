@@ -13,30 +13,30 @@ const Footer = () => (
                 <div class="grid grid-cols-4  divide-x divide-black ">
                     <Link href="https://github.com/mattmc96">
                         <div class="text-center px-2">
-                            <FaGithubSquare/>
+                            <FaGithubSquare class="hover:opacity-75"/>
                         </div>
                     </Link>
 
                     <Link href="https://www.linkedin.com/in/matthew-mccarthy-774b331aa/">
                         <div  class="text-center px-2">
-                            <FaLinkedin/>
+                            <FaLinkedin class="hover:opacity-75"/>
                         </div>
                     </Link>
 
                     <Link href="https://mail.google.com/mail/u/1/#inbox?compose=new">
                         <div  class="text-center px-2">
-                            <FaEnvelope/>
+                            <FaEnvelope class="hover:opacity-75"/>
                         </div>
                     </Link>
                     <Link href="/404">
                         <div  class="text-center px-2">
-                            <FaInstagramSquare/>
+                            <FaInstagramSquare class="hover:opacity-75"/>
                         </div>
                     </Link>
                 </div>
             </div>
             <div class="flex justify-center gap-x-4 items-center">
-                <h3 class="font-hairline text-sm tracking-wider text-gray-700">Website built and designed by Matt
+                <h3 class="font-hairline place-self-auto text-sm tracking-wider text-gray-700">Website built and designed by Matt
                     Mccarthy</h3>
                 <img src="/next.svg"/>
 

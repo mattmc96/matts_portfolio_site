@@ -11,7 +11,7 @@ export default function Logo() {
                         <img src="/me.png" alt="me" class="h-56 w-56"/>
                     </a>
                 </Link>
-                <div class="absolute left-0 ml-40  ">
+                <div class="absolute left-0 ml-40 sm:hidden  ">
                     <Typed
                             strings={[
                                 'Hi, my names Matt!',

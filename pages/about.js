@@ -2,7 +2,11 @@ import Layout from '../components/Layout'
 
 const About = () => (
         <Layout>
-            <h1>About Me</h1>
+            <div>
+                <div>
+            <h1 class="prose lg:prose-xl">Little bit about me </h1>
+                </div>
+            </div>
         </Layout>
 )
 export default About
