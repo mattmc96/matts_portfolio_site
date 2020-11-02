@@ -4,7 +4,7 @@ const Services = () => (
         <Layout>
             <h1 class="font-thin">Current.</h1>
             <div class="max-w-screen-lg my-0 mx-auto">
-                <div class="py-0 px-2 flex flex-wrap place-items-center justify-evenly grid grid-rows-3 grid-flow-col gap-0 gap-x-0">
+                <div class="py-0 px-2 flex flex-wrap place-items-center items-start justify-evenly grid grid-rows-3 grid-flow-col gap-0 gap-x-0">
                     <div class="p-2 mb-3 w-1/2 sm:w-auto sm:px-1 sm:py-2 ">
                         <h2 class="mt-0 mr-0 mb-1 ml-0 ">HTML</h2>
                         <img class=" transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
