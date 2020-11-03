@@ -1,5 +1,6 @@
 // import React, { useState } from 'react'
 import Layout from '../components/Layout'
+import Form from '../components/Form'
 // import axios from 'axios'
 
 const Homepage = () => {
@@ -48,7 +49,7 @@ const Homepage = () => {
     return (
 
             <Layout>
-                <div>Under Construction</div>
+                <div class="flex justify-center"><Form/></div>
 
             </Layout>
     )
