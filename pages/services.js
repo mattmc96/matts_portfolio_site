@@ -8,77 +8,77 @@ const Services = () => (
                     <div class="p-2 mb-3 w-1/2  px-1 py-2 ">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">HTML</h2>
                         <img class=" transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/html5-original.svg"/>
+                             width={200} height={200} src="/html5-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2 justify-center">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">CSS</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/css3-original.svg"/>
+                             width={200} height={200} src="/css3-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">JavaScript</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/javascript-original.svg"/>
+                             width={200} height={200} src="/javascript-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">React</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/react-original.svg"/>
+                             width={200} height={200} src="/react-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Express</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/express-original.svg"/>
+                             width={200} height={200} src="/express-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Node</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/nodejs-original.svg"/>
+                             width={200} height={200} src="/nodejs-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">PostgreSQL</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/postgresql-original.svg"/>
+                             width={200} height={200} src="/postgresql-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Redux</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/redux-original.svg"/>
+                             width={200} height={200} src="/redux-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">SASS</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/sass-original.svg"/>
+                             width={200} height={200} src="/sass-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Next</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="next.svg"/>
+                             width={200} height={200} src="next.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">TailwindCSS</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="tailwind.svg"/>
+                             width={200} height={200} src="tailwind.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Vim</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/vim-original.svg"/>
+                             width={200} height={200} src="/vim-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Git</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/git-original.svg"/>
+                             width={200} height={200} src="/git-original.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Gulp</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/gulp-plain.svg"/>
+                             width={200} height={200} src="/gulp-plain.svg"/>
                     </div>
                     <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">Jest</h2>
                         <img class="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                             width={100} height={100} src="/jest.svg"/>
+                             width={200} height={200} src="/jest.svg"/>
                     </div>
                 </div>
                 <div class="flex justify-center  pb-40 pt-20">
@@ -89,17 +89,17 @@ const Services = () => (
                         <div class="p-2 mb-3 w-1/2  w-auto px-1 py-2 ">
                             <h2 class="mt-0 mr-0 mb-1  ml-0 transform -translate-x-2 gap-x-2">TypeScript</h2>
                             <img class="flex justify-between transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                                 width={100} height={100} src="/typescript-original.svg"/>
+                                 width={200} height={200} src="/typescript-original.svg"/>
                         </div>
                         <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                             <h2 class="mt-0 mr-0 mb-1 ml-0 transform -translate-x-2 gap-x-2">Sequelize</h2>
                             <img class="flex justify-between transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                                 width={100} height={100} src="/sequelize-original.svg"/>
+                                 width={200} height={200} src="/sequelize-original.svg"/>
                         </div>
                         <div class="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                             <h2 class="mt-0 mr-0 mb-1 ml-0 transform -translate-x-2 gap-x-2">AWS</h2>
                             <img class="flex justify-between transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
-                                 width={100} height={100} src="/amazonwebservices-original-wordmark.svg"/>
+                                 width={200} height={200} src="/amazonwebservices-original-wordmark.svg"/>
                         </div>
                     </div>
                 </div>

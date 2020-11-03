@@ -15,7 +15,12 @@ const About = () => (
                             the<br/> backend more than anything. </p>
                     </div>
                 </div>
-
+<div class="flex gap-4 justify-center">
+    <h1 class="prose text-xl">Powered by</h1>
+    <img width={75} height={75} src="/coffee-cup.svg"/>
+        <di class="flex items-center">+</di>
+            <img width={75} height={75} src="webstorm.svg"/>
+</div>
 
             </div>
         </Layout>
