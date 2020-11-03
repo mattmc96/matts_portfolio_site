@@ -6,7 +6,7 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "export": "next export"
+        "build:css": "postcss src/tailwind.css -o static/dist/tailwind.css"
     },
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.32",
@@ -20,6 +20,7 @@
         "next-optimized-images": "^2.6.2",
         "postcss-flexbugs-fixes": "4.2.1",
         "postcss-nested": "4.2.3",
+        "postcss-preset-env": "^6.7.0",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-icons": "^3.11.0",

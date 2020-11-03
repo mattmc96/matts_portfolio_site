@@ -3,7 +3,7 @@ import { TiArrowRightOutline } from 'react-icons/ti'
 
 const Portfolio = () => (
         <Layout>
-            <div class="flex justify-evenly">
+            <div class="mt-12 mb-12 flex justify-evenly">
 
                 <div class="max-w-sm rounded overflow-hidden shadow-xl ">
                     <img src="getawayPORT.png"/>

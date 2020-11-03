@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Footer = () => (
 
-        <div class="font-hairline gap-6 mt-40">
+        <div class="font-hairline gap-6 mt-64">
             <div class="flex justify-center items-center gap-6 gap-y-6 ">
                 <div class="divide-x divide-black">
                     <h1 class="text-lg font-indigo">
