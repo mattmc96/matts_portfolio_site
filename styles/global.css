@@ -1,0 +1,33 @@
+#root {
+    background-color: white;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#root {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    color: black;
+    background: #f0f0f0;
+}
+
+.script-bf-box {
+    width: 100px;
+    height: 300px;
+    background: #4baecb;
+    margin: 5px;
+    will-change: transform;
+}
+
+.script-bf-box:hover {
+    background: hotpink;
+}
