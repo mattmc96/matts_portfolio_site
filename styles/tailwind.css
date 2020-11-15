@@ -17,7 +17,7 @@
     }
 
     body {
-        @apply m-0 text-xl leading-relaxed font-normal bg-white font-sans antialiased
+        @apply m-0 text-xl leading-relaxed font-normal bg-lightBlue font-sans antialiased
     }
     h1,h2,h3 {
         @apply mt-4 mx-0 mb-3

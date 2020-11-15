@@ -31,3 +31,165 @@
 .script-bf-box:hover {
     background: hotpink;
 }
+.wrapper {
+    width: auto;
+    position: relative;
+}
+.side-1, .side-2, .side-3--half, .side-3--1, .side-3--2 {
+    width: 25rem;
+    height: 5rem;
+    position: relative;
+}
+span {
+    display: block;
+    width: 25rem;
+    height: 2.5rem;
+}
+.side-1 {
+    clip-path: polygon(5% 0%, 100% 1%, 100% 100%, 7% 100%, 0% 50%);
+    transform: rotate(32deg);
+    width: 22rem;
+    z-index: 10;
+    left: -2px;
+}
+.side-1 span {
+    background-color: #ffbdb8;
+}
+.side-1 span:nth-child(2) {
+    background-color: #163d37;
+}
+.side-2 {
+    clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 91% 100%, 0% 100%);
+    top: 5.1rem;
+    left: 1.6rem;
+    transform: rotate(-35deg);
+    width: 22rem;
+    z-index: 20;
+}
+.side-2 span {
+    background-color: #ffbdb8;
+}
+.side-2 span:nth-child(2) {
+    background-color: #0156f0;
+}
+.side-3--half {
+    width: 13rem;
+    clip-path: polygon(14% 0%, 98% 0%, 100% 50%, 98% 100%, 15% 100%);
+    transform: rotate(90deg);
+    left: -2.5rem;
+}
+.side-3--half span {
+    background-color: #0156f0;
+}
+.side-3--half span:nth-child(2) {
+    background-color: #163d37;
+}
+.side-3--1 {
+    z-index: 5;
+    top: -9rem;
+}
+.side-3--2 {
+    z-index: 30;
+    top: -1.8rem;
+    left: -2rem;
+    width: 12rem;
+    clip-path: polygon(0% 0%, 85% 0%, 100% 50%, 90% 100%, 0% 100%);
+}
+.ball {
+    width: 2rem;
+    height: 2rem;
+    background: whitesmoke;
+    border-radius: 100%;
+    position: absolute;
+    z-index: 20;
+    transform: translateY(-5.5rem) translateX(1.5rem);
+    top: -0.5rem;
+    left: -0.75rem;
+    animation: ballMove 17s infinite linear;
+}
+@keyframes ballMove {
+    8% {
+        top: 10rem;
+        left: 16.5rem;
+        z-index: 30;
+    }
+    14% {
+        top: 19.5rem;
+        left: 4rem;
+        z-index: 30;
+    }
+    15% {
+        z-index: 30;
+    }
+    16% {
+        z-index: 4;
+    }
+    23% {
+        top: 1rem;
+        left: 4rem;
+        z-index: 1;
+    }
+    33% {
+        top: 11.5rem;
+        left: 20rem;
+        z-index: 10;
+    }
+    34% {
+        z-index: 50;
+    }
+    42% {
+        top: 24rem;
+        left: 3rem;
+        z-index: 50;
+    }
+    44%, 45%, 46% {
+        z-index: 31;
+    }
+    47% {
+        z-index: 31;
+    }
+    48% {
+        z-index: 31;
+    }
+    49% {
+        z-index: 8;
+    }
+    52% {
+        top: 7rem;
+        left: 4rem;
+        z-index: 8;
+    }
+    61% {
+        top: 15.5rem;
+        left: 17rem;
+        z-index: 10;
+    }
+    68% {
+        top: 26.5rem;
+        z-index: 5;
+        left: 0;
+    }
+    69% {
+        z-index: 35;
+    }
+    78% {
+        top: 3.5rem;
+        left: 0;
+        z-index: 35;
+    }
+    86% {
+        top: 12rem;
+        left: 13rem;
+        z-index: 15;
+    }
+    93% {
+        top: 23rem;
+        left: -1rem;
+        z-index: 2;
+    }
+    99% {
+        z-index: 4;
+    }
+}
+
+

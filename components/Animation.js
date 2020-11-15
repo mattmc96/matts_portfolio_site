@@ -1,19 +1,31 @@
-import { useSpring, animated } from "react-spring"
-import range from 'lodash-es/range'
+import React from 'react'
 
+function Animation() {
+    return (
+            <>
+                <div className="wrapper">
+                    <div className="ball"/>
+                    <div className="side-1">
+                        <span/>
+                        <span/>
+                    </div>
+                    <div className="side-2">
+                        <span/>
+                        <span/>
+                    </div>
+                    <div className="side-3--half side-3--1">
+                        <span/>
+                        <span/>
+                    </div>
+                    <div className="side-3--half side-3--2">
+                        <span/>
+                        <span/>
+                    </div>
+                </div>
+                <a target="_blank" href="https://dribbble.com/shots/3796844-Penrose-Triangle"></a>
+            </>
 
-const items = range(5)
-const interp = i => r => `translate3d(0, ${15 * Math.sin(r + (i * 2 * Math.PI) / 1.6)}px, 0)`
-
-const Animation = () => {
-    const { radians } = useSpring({
-       to: async next => {
-           while(1) await next({ radians: 2 * Math.PI })
-       },
-        from: { radians: 0 },
-        config: { duration: 3500 },
-        reset: true,
-    })
-    return items.map(i => <animated.div key={i} className="script-bf-box" style={{ transform: radians.interpolate(interp(i)) }}/>)
+    )
 }
+
 export default Animation

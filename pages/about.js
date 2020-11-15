@@ -2,7 +2,7 @@ import Layout from '../components/Layout'
 
 const About = () => (
         <Layout>
-            <div>
+            <div className="w-6/12 bg-white rounded shadow-lg p-8 m-4 md:max-w-sm md:mx-auto">
                 <div class="flex divide-x-2 mx-20 mt-20 mb-40 divide-gray-600 justify-center ">
                     <div class="">
                         <h1 class="prose lg:prose-xl p-12 font-semibold ">Little bit about me </h1>
@@ -26,3 +26,4 @@ const About = () => (
         </Layout>
 )
 export default About
+ 
