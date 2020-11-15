@@ -16,25 +16,25 @@ export default class Form extends React.Component {
                     <div>
 
                     </div>
-                    <div className="w-full bg-white rounded shadow-lg p-8 m-4 md:max-w-sm md:mx-auto">
+                    <div className="w-full bg-indigo-200 transform translate-x-full translate-y-1/2 flex justify-center items-center rounded shadow-lg p-8 m-4 md:max-w-sm md:mx-auto">
                         <form
                                 onSubmit={this.submitForm}
                                 action="https://formspree.io/f/mvovrvoe"
                                 method="POST"
                         >
                             <div class="md:flex md:items-center mb-6">
-                                <h1 class="prose xl:prose-xl text-gray-500 text-xl font-bold">Contact</h1>
+                                <h1 class="prose xl:prose-xl text-gray-900 text-xl font-bold">Contact</h1>
                                 <div class="md:w-1/3">
-                                    <label class="flex justify-start block items-end text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4 font-bold">What
+                                    <label class="flex justify-start block items-end text-gray-900 font-bold md:text-right mb-1 md:mb-0 pr-4 font-bold">What
                                         Email can I reach you at?</label>
                                 </div>
                                 <div class="md:2-2/3">
-                                    <input class=" bg-gray-300 appearance-none border-2 border-indigo-200 rounded w-full py-2 px-4  text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
+                                    <input class=" bg-gray-300 appearance-none border-2 border-indigo-200 rounded w-full py-2 px-4  text-gray-300 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
                                            type="email" name="email"/>
                                 </div>
                                 <div class="md:flex md:items-center mb-6">
                                     <div class="md:w-1/3">
-                                        <label class=" flex justify-start items-end block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4 font-bold transform translate-y-4">Send
+                                        <label class=" flex justify-start items-end block text-gray-900 font-bold md:text-right mb-1 md:mb-0 pr-4 font-bold transform translate-y-4">Send
                                             me a message directly!</label>
                                     </div>
                                 </div>

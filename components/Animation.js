@@ -22,7 +22,6 @@ function Animation() {
                         <span/>
                     </div>
                 </div>
-                <a target="_blank" href="https://dribbble.com/shots/3796844-Penrose-Triangle"></a>
             </>
 
     )

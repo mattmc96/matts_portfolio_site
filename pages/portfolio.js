@@ -3,6 +3,8 @@ import { TiArrowRightOutline } from 'react-icons/ti'
 
 const Portfolio = () => (
         <Layout>
+            {/*<div className="w-6/12 bg-white rounded shadow-lg p-8 m-4 md:max-w-sm md:mx-auto">*/}
+
             <div class="mt-12 mb-12 flex justify-evenly">
 
                 <div class="max-w-sm rounded overflow-hidden shadow-xl ">
@@ -50,6 +52,7 @@ const Portfolio = () => (
                     </div>
                 </div>
             </div>
+            {/*</div>*/}
         </Layout>
 )
 export default Portfolio

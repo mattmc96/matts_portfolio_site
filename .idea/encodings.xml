@@ -3,14 +3,22 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/components/Animation.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/Animation.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/Card.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/Form.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/Header.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/Layout.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/Menu.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/Whoami.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/IndexPage.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/_app.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/about.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pages/contact.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pages/portfolio.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pages/services.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/public/github.svg" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/styles/global.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/styles/tailwind.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tailwind.config.js" charset="UTF-8" />
   </component>
 </project>

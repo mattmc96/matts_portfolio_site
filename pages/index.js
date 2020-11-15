@@ -1,18 +1,17 @@
 // import React, { useState } from 'react'
 import Layout from '../components/Layout'
-import Animation from '../components/Animation'
-import Form from '../components/Form'
+import Card from '../components/Card'
+// import Form from '../components/Form'
 
 const Homepage = () => {
     return (
 
             <Layout>
                 <div>
-                    <div class="container mx-auto flex flex-row justify-center mt-40 mb-40 ">
-                        <Animation/>
+                    <div class="container mx-auto flex flex-row justify-center">
+                        <Card/>
                     </div>
                     <div class="flex justify-center">
-                        <Form/>
                     </div>
                 </div>
             </Layout>

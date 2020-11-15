@@ -22,6 +22,11 @@ const Menu = () => (
                     <a class=" pb-2 border-b-2 border-transparent hover:border-gray-400 text-grey-800 font-light padding py-2 px-1 my-0 mx-3 no-underline hover:pb-1 hover:border-b-2  sm:text-lg">About</a>
                 </Link>
             </li>
+            <li className="sm:inline-block font-light text-indigo-500 hover:text-gray-800 ">
+                <Link href="/contact">
+                    <a className=" pb-2 border-b-2 border-transparent hover:border-gray-400 text-grey-800 font-light padding py-2 px-1 my-0 mx-3 no-underline hover:pb-1 hover:border-b-2  sm:text-lg">Contact</a>
+                </Link>
+            </li>
         </ul>
 )
 

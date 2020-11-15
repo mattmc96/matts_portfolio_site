@@ -2,8 +2,10 @@ import Layout from '../components/Layout'
 
 const Services = () => (
         <Layout>
+            {/*<div className="w-6/12 bg-white rounded shadow-lg p-8 m-4 md:max-w-sm md:mx-auto">*/}
+
             <h1 class="font-thin">Current.</h1>
-            <div class=" my-0 ">
+            <div class=" my-0 box-border">
                 <div class="py-0 px-2 flex flex-wrap place-items-center items-start justify-evenly grid grid-rows-3 grid-flow-col gap-0 gap-x-0">
                     <div class="p-2 mb-3 w-1/2  px-1 py-2 ">
                         <h2 class="mt-0 mr-0 mb-1 ml-0">HTML</h2>
@@ -105,6 +107,7 @@ const Services = () => (
                 </div>
                 </div>
             </div>
+            {/*</div>*/}
         </Layout>
 )
 export default Services
