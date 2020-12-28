@@ -9,6 +9,7 @@
         "build:css": "postcss src/tailwind.css -o static/dist/tailwind.css"
     },
     "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.1",
         "@fortawesome/fontawesome-svg-core": "^1.2.32",
         "@fortawesome/free-solid-svg-icons": "^5.15.1",
         "@fortawesome/react-fontawesome": "^0.1.12",
@@ -22,6 +23,7 @@
         "next": "^10.0.0",
         "next-optimized-images": "^2.6.2",
         "next-transpile-modules": "^4.1.0",
+        "normalize.css": "^8.0.1",
         "postcss-flexbugs-fixes": "4.2.1",
         "postcss-nested": "4.2.3",
         "postcss-preset-env": "^6.7.0",
