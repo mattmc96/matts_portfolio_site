@@ -20,32 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6217346b-bdd5-41cb-9968-9d31efc0c763" name="Default Changelist" comment="most of menu bar done">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mattsportfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mattsportfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/reactTemplatesPlugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vagrant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Animation.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/resume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Homie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

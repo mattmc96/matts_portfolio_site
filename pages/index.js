@@ -12,7 +12,7 @@ const Home = () => {
                                         <div className="relative">
                                             <img
                                                     alt="..."
-                                                    src="me.png"
+                                                    src="./me.png"
                                                     className="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16"
                                                     style={{ maxWidth: "150px" }}
                                             />
