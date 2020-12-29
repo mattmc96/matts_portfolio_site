@@ -19,16 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6217346b-bdd5-41cb-9968-9d31efc0c763" name="Default Changelist" comment="most of menu bar done">
-      <change afterPath="$PROJECT_DIR$/pages/resume.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+    <list default="true" id="6217346b-bdd5-41cb-9968-9d31efc0c763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Homie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resume.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +89,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.16" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -283,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605428947305</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="chores: navbar">
+      <created>1609206000460</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609206000460</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers>
       <Trello />
     </servers>
@@ -328,6 +331,7 @@
     <MESSAGE value="hosting" />
     <MESSAGE value="Editing whoami" />
     <MESSAGE value="2nd version done" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd version done" />
+    <MESSAGE value="chores: navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="chores: navbar" />
   </component>
 </project>

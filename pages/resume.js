@@ -1,4 +1,3 @@
-
 import Layout from '../components/Layout'
 
 const Home = () => {
@@ -91,7 +90,10 @@ const Home = () => {
             {/*    </div>*/}
             {/*  </div>*/}
             {/*</div>*/}
-            <img src='./resume1.png'/>
+            <img
+              src='/resume1.png'
+              alt='resume image'
+            />
           </div>
         </div>
       </section>
