@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6217346b-bdd5-41cb-9968-9d31efc0c763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/NewResume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/go-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mongodb-original-wordmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/python-original.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Logo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resume.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,15 +116,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio\public" />
       <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio" />
       <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio\.next" />
       <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio\pages" />
       <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio\pages\posts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\matth\Desktop\portfolio_files\mattsportfolio\public" />
     </key>
   </component>
   <component name="RunAnythingCache">

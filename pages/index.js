@@ -27,7 +27,7 @@ const Home = () => {
                       'I\'m a full-stack web developer.',
                       'I\'m currently available for hire.'
                     ]}
-                    typeSpeed={60}
+                    typeSpeed={70}
                     backSpeed={70}
                     backDelay={500}
                     startDelay={1000}
@@ -189,11 +189,11 @@ const Home = () => {
                         </div>
                         <div
                           className="p-2 mb-3 w-1/2 w-auto px-1 py-2">
-                          <h2 className="mt-0 mr-0 mb-1 ml-0">Vim</h2>
+                          <h2 className="mt-0 mr-0 mb-1 ml-0">Go</h2>
                           <img
                             className="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
                             width={ 200 } height={ 200 }
-                            src="/vim-original.svg"/>
+                            src="/go-original.svg"/>
                         </div>
                         <div
                           className="p-2 mb-3 w-1/2 w-auto px-1 py-2">
@@ -206,11 +206,11 @@ const Home = () => {
                         <div
                           className="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                           <h2
-                            className="mt-0 mr-0 mb-1 ml-0">Gulp</h2>
+                            className="mt-0 mr-0 mb-1 ml-0">MongoDB</h2>
                           <img
                             className="transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
                             width={ 200 } height={ 200 }
-                            src="/gulp-plain.svg"/>
+                            src="/mongodb-original-wordmark.svg"/>
                         </div>
                         <div
                           className="p-2 mb-3 w-1/2 w-auto px-1 py-2">
@@ -241,11 +241,11 @@ const Home = () => {
                             <div
                               className="p-2 mb-3 w-1/2 w-auto px-1 py-2">
                               <h2
-                                className="mt-0 mr-0 mb-1 ml-0 transform -translate-x-2 gap-x-2">Sequelize</h2>
+                                className="mt-0 mr-0 mb-1 ml-0 transform -translate-x-2 gap-x-2">Python</h2>
                               <img
                                 className="flex justify-between transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-500"
                                 width={ 200 } height={ 200 }
-                                src="/sequelize-original.svg"/>
+                                src="/python-original.svg"/>
                             </div>
                             <div
                               className="p-2 mb-3 w-1/2 w-auto px-1 py-2">
