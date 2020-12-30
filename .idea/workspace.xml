@@ -21,17 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6217346b-bdd5-41cb-9968-9d31efc0c763" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Card.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Logo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Logo.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +49,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1609286483" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="redo" />
                     <option name="lastUsedInstant" value="1606507007" />
@@ -81,11 +79,6 @@
   <component name="ProjectId" id="1jf6xBrmtjfeX9AqR4EXad5i4rk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectStartupLocalConfiguration">
-    <configurations>
-      <configuration id="Node.js.Unnamed" name="Unnamed" />
-    </configurations>
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -134,10 +127,11 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="git add ." />
       <command value="git commit -m &quot;chores: defalt&quot;" />
-      <command value="git push" />
       <command value="git push origin main" />
+      <command value="git add ." />
+      <command value="git commit -m &quot;feat: redo&quot;" />
+      <command value="git push" />
     </option>
   </component>
   <component name="RunManager" selected="npm.dev">

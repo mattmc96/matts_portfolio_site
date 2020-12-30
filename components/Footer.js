@@ -121,21 +121,16 @@ function Footer() {
                         </div>
                         <hr className="my-6 border-gray-400"/>
                         <div className="flex flex-wrap items-center md:justify-between justify-center">
-                            <div className="w-full md:w-4/12 px-4 mx-auto text-center">
-                                <div className="text-sm text-gray-600 font-semibold py-1">
-                                  <div className="text-center flex mb-2 justify-center gap-x-8">
-                                  <img src="/next.svg" width={60}/>
-                                  <img src="/tailwind.svg" width={60}/>
-                                  </div>
-                                    © {new Date().getFullYear()}{' '}Designed and Created by{' '}
-                                    <a
-                                            href="https://www.creative-tim.com"
-                                            className="text-gray-600 hover:text-gray-900"
-                                    >
-                                        Matt McCarthy
-                                    </a>
-                                </div>
-                            </div>
+                          <div className="flex justify-center gap-x-4 mx-auto items-center">
+                            <h3
+                              className="font-hairline text-sm tracking-wider text-gray-700">
+                              © {new Date().getFullYear()}{' '}Designed and Created by{' '}
+                              Matt Mccarthy</h3>
+                            <img src="/next.svg"/>
+
+                            <img src="/tailwind.svg"/>
+
+                          </div>
                         </div>
                     </div>
                 </footer>

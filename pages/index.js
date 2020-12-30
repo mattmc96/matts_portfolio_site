@@ -1,4 +1,5 @@
 import Layout from '../components/Layout';
+import Typed from 'react-typed'
 
 const Home = () => {
   return (
@@ -18,6 +19,20 @@ const Home = () => {
                       style={ { maxWidth: '150px' } }
                     />
                   </div>
+                </div>
+                <div className="absolute left-0 mx-24 mt-12">
+                  <Typed
+                    strings={[
+                      'Hi, my names Matt!',
+                      'I\'m a full-stack web developer.',
+                      'I\'m currently available for hire.'
+                    ]}
+                    typeSpeed={60}
+                    backSpeed={70}
+                    backDelay={500}
+                    startDelay={1000}
+                    smartBackspace={true}
+                    loop={false}/>
                 </div>
                 <div className="w-full lg:w-4/12 px-4 lg:order-3 lg:text-right lg:self-center">
                   <div className="py-6 px-3 mt-32 sm:mt-0">
