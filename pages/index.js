@@ -66,7 +66,7 @@ const Home = () => {
                 </div>
                 <div className="mb-2 text-gray-700">
                   <i className="fas fa-university mr-2 text-lg text-gray-500"></i>
-                  Graduate of Dev Mountain
+                  Graduate of Dev Mountain and Programming student
                 </div>
               </div>
               <div className="mt-10 py-10 border-t border-gray-300 text-center">
