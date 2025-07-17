@@ -10,21 +10,20 @@ const Portfolio = () => (
             <h1 className="font-thin justify-center mx-auto">Projects</h1>
                 <div className="mt-24 mb-24 flex justify-evenly flex-wrap">
                     <div className="max-w-sm rounded overflow-hidden shadow-xl m-4 ">
-                        <img src="getawayPORT.png"/>
+                        <img src="bolderspub.png"/>
                         <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-2">GetAway</div>
+                            <div className="font-bold text-xl mb-2">Bolders Pub</div>
                             <p className="text-gray-700 text-base">
-                                Need a break? Find a new place to get away for a bit! This site lets
-                                users make reservations from people renting their homes
-                                out for profit.
+                               A website developed to showcase a restaurant. Given I was a chef I decided to recreate something that would be seen for most establishments.
+                               A great way to showcase the food and make contacting the restaurant easy and efficent. 
                             </p>
                         </div>
                         <div
                           className="flex flex-row justify-start items-center gap-x-2  pl-8 translate-x-4">
                             <TiArrowRightOutline class="text-gray-700"/>
-                            <a className="text-sm  text-red-700" href="http://getaway.dev">Live.</a>
+                            <a className="text-sm  text-red-700" href="https://bolderspub.netlify.app/">Live.</a>
                             <a className="text-sm  text-red-700"
-                               href="https://github.com/GetAway-DM/GetAway">Repo.</a>
+                               href="https://bolderspub.netlify.app/">Repo.</a>
                         </div>
 
                         <div className="px-6 pt-4 pb-2">
