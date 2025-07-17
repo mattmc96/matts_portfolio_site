@@ -73,12 +73,10 @@ const Home = () => {
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-9/12 px-4">
                     <p className="mb-4 text-lg leading-relaxed text-gray-800 pb-8">
-                      Currently reside in Dallas, TX.
+                      Currently reside in New Braunfels, TX.
                       Hobbies include<br/> martial arts, cooking,
-                      coding, and hiking with my dog. I recently<br/>
-                      graduated from DevMountains immersive bootcamp.
-                      I am a full-stack developer<br/> but enjoy working in the
-                      backend more than anything.
+                      coding, fishing.
+                      I am a web developer with skills in customer service, and clerical work. I am a student in at Alamo colleges majoring in programming<br/> 
                     </p>
                     <div className="flex gap-4 justify-center">
                       <h1 className="prose text-xl">Powered by</h1>
