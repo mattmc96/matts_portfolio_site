@@ -57,7 +57,7 @@ function contact() {
                         Grow with me!
                       </h5>
                       <p className="mt-2 mb-4 text-gray-500">
-                      Were all learning. I love to learn new technologies and to constantly evolve me game. Lets grow together!
+                      We are all learning. I love to learn new technologies and to constantly evolve my game. Lets grow together!
                       </p>
                     </div>
                     <div className="w-full lg:w-3/12 px-4 text-center">
@@ -81,10 +81,10 @@ function contact() {
                       <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-gray-300">
                         <div className="flex-auto p-5 lg:p-10">
                           <h4 className="text-2xl font-semibold">
-                            Want to work with us?
+                            Want to contact me?
                           </h4>
                           <p className="leading-relaxed mt-1 mb-4 text-gray-600">
-                            Complete this form and we will get back to you in 24 hours.
+                            Complete this form and I will get back to you as soon as possible
                           </p>
                           <div className="relative w-full mb-3 mt-8">
                             <label
